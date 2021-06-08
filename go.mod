@@ -1,6 +1,6 @@
-module github.com/qinyuanmao/weworklib
+module github.com/siguago/weworklib
 
-go 1.15
+go 1.16
 
 require (
 	github.com/spf13/viper v1.7.1

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/qinyuanmao/weworklib"
+	"github.com/siguago/weworklib"
 	"github.com/spf13/viper"
 )
 
